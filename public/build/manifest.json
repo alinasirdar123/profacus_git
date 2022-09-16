@@ -1,12 +1,73 @@
 {
+  "public/resource/js-extension/slick/ajax-loader.gif": {
+    "file": "assets/ajax-loader.e7b44c86.gif",
+    "src": "public/resource/js-extension/slick/ajax-loader.gif"
+  },
+  "public/resource/bootstrap/icons/fonts/bootstrap-icons.woff2": {
+    "file": "assets/bootstrap-icons.c69bf1cc.woff2",
+    "src": "public/resource/bootstrap/icons/fonts/bootstrap-icons.woff2"
+  },
+  "public/resource/js-extension/slick/fonts/slick.svg": {
+    "file": "assets/slick.12459f22.svg",
+    "src": "public/resource/js-extension/slick/fonts/slick.svg"
+  },
+  "public/resource/bootstrap/icons/fonts/bootstrap-icons.woff": {
+    "file": "assets/bootstrap-icons.13977b4a.woff",
+    "src": "public/resource/bootstrap/icons/fonts/bootstrap-icons.woff"
+  },
+  "public/resource/js-extension/jquery/jquery.min.js": {
+    "file": "assets/jquery.min.d6e14ab0.js",
+    "src": "public/resource/js-extension/jquery/jquery.min.js",
+    "isEntry": true
+  },
   "resources/js/app.js": {
-    "file": "assets/app.ab93cf8a.js",
+    "file": "assets/app.123e0070.js",
     "src": "resources/js/app.js",
     "isEntry": true
   },
+  "public/resource/bootstrap/js/bootstrap.bundle.min.js": {
+    "file": "assets/bootstrap.bundle.min.bda832cf.js",
+    "src": "public/resource/bootstrap/js/bootstrap.bundle.min.js",
+    "isEntry": true
+  },
+  "public/resource/js-extension/slick/slick.js": {
+    "file": "assets/slick.b842f289.js",
+    "src": "public/resource/js-extension/slick/slick.js",
+    "isEntry": true
+  },
+  "public/resource/custom/custom.js": {
+    "file": "assets/custom.fcd7d156.js",
+    "src": "public/resource/custom/custom.js",
+    "isEntry": true
+  },
   "resources/css/app.css": {
-    "file": "assets/app.1b067cf7.css",
+    "file": "assets/app.be7fb712.css",
     "src": "resources/css/app.css",
+    "isEntry": true
+  },
+  "public/resource/js-extension/slick/slick.css": {
+    "file": "assets/slick.a71e3fe6.css",
+    "src": "public/resource/js-extension/slick/slick.css",
+    "isEntry": true
+  },
+  "public/resource/custom/custom.css": {
+    "file": "assets/custom.59d9abc3.css",
+    "src": "public/resource/custom/custom.css",
+    "isEntry": true
+  },
+  "public/resource/js-extension/slick/slick-theme.css": {
+    "file": "assets/slick-theme.a97a2273.css",
+    "src": "public/resource/js-extension/slick/slick-theme.css",
+    "isEntry": true
+  },
+  "public/resource/bootstrap/css/bootstrap.min.css": {
+    "file": "assets/bootstrap.min.0efbff83.css",
+    "src": "public/resource/bootstrap/css/bootstrap.min.css",
+    "isEntry": true
+  },
+  "public/resource/bootstrap/icons/bootstrap-icons.css": {
+    "file": "assets/bootstrap-icons.eea6c7b3.css",
+    "src": "public/resource/bootstrap/icons/bootstrap-icons.css",
     "isEntry": true
   }
 }
